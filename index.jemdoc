@@ -1,0 +1,32 @@
+# jemdoc: menu{MENU2}{index.html}, 
+= Dipankar Maity
+
+~~~
+{}{img_left}{Dipankar_Maity.png}{profile picture}{150}{}{}
+Dipankar Maity \n
+Postdoctoral Research Fellow\n
+[https://ae.gatech.edu/ Department of Aerospace Engineering\n]
+[https://gatech.edu/ Georgia Institute of Technology]
+
+
+office: 210D Weber Building\n
+email: dmaity<at>gatech<dot>edu\n
+web:
+~~~
+
+ I am a postdoctoral fellow at Georgia Institute of Technology under [http://dcsl.gatech.edu/tsiotras.html Pangiotis Tsiotras] since Fall 2018. 
+ Prior to that, I received my PhD degree in Electrical Engineering at [https://www.umd.edu University of Maryland] under
+the supervision of [http://dev-baras.pantheon.io/ John S. Baras].
+
+  During my PhD, I worked on controller synthesis under *logical* and *communication* constraints and their applications to robotics.
+  Currently, I am working on control and decision making under information constraints where we leverage tools from Information theory, 
+  optimization and [https://en.wikipedia.org/wiki/Bounded_rationality bounded rationality].
+
+  I am broadly interested in controls, multi-agent-systems, robotics and Cyber-Physical-Systems.
+
+ Resources: [cv.pdf CV]
+
+
+
+
+
