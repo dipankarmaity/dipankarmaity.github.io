@@ -2,29 +2,47 @@
 = Dipankar Maity
 
 ~~~
-{}{img_left}{Dipankar_Maity.png}{profile picture}{150}{}{}
+{}{img_left}{DMaity-profile-picture.png}{profile picture}{150}{}{}
 Dipankar Maity \n
-Postdoctoral Research Fellow\n
-[https://ae.gatech.edu/ Department of Aerospace Engineering\n]
-[https://gatech.edu/ Georgia Institute of Technology]
+Assistant Professor, [https://ece.uncc.edu/ Department of Electrical and Computer Engineering\n]
+[https://uncc.edu/ University of North Carolina at Charlotte]
+
+/email/: dmaity<at>uncc<dot>edu
+
+/Office/: 
+EPIC 2163\n
+9201 University City Boulevard,\n
+Charlotte, NC 28223–001
 
 
-office: 210D Weber Building\n
-email: dmaity<at>gatech<dot>edu\n
-web:
+
 ~~~
 
- I am a postdoctoral fellow at Georgia Institute of Technology under [http://dcsl.gatech.edu/tsiotras.html Pangiotis Tsiotras] since Fall 2018. 
- Prior to that, I received my PhD degree in Electrical Engineering at [https://www.umd.edu University of Maryland] under
-the supervision of [http://dev-baras.pantheon.io/ John S. Baras].
+ I am an Assistant Professor in the [https://ece.uncc.edu/ Department of Electrical and Computer Engineering] at the [https://uncc.edu/  University of North Carolina at Charlotte] since August 2020. 
+Prior to that, I was a Postdoctoral Fellow in the [https://www.ae.gatech.edu Daniel Guggenheim School of Aerospace Engineering] at the [https://www.gatech.edu Georgia Instritute of Technology] for two years.
+I received my PhD degree in Electrical Engineering from the [https://www.umd.edu University of Maryland at College Park] in 2018.
 
-  During my PhD, I worked on controller synthesis under *logical* and *communication* constraints and their applications to robotics.
-  Currently, I am working on control and decision making under information constraints where we leverage tools from Information theory, 
-  optimization and [https://en.wikipedia.org/wiki/Bounded_rationality bounded rationality].
 
-  I am broadly interested in controls, multi-agent-systems, robotics and Cyber-Physical-Systems.
+  My research interests are in control theory, multi-agent-systems, robotics and Cyber-Physical-Systems. 
+Some of the ongoing works are:
+- Multi-robot Cooperative Control in Adversarial Settings
+- Motion Planning with Satefy Certificates
+- Control-Communication Co-design for CPSs
 
- Resources: [cv.pdf CV]
+~~~
+*Multiple PhD/Master's openings* in the areas of multi-robot coopeative control, robotics and machine learning, and control with communication constraints. 
+ 
+If you are interested in joinging the reserach group, please send me an email with your CV and two most significant publications (if available). 
+~~~
+ 
+= Recent news
+~~~
+2021/01- We are now a part of the [https://www.dcist.org/the-team/ DCIST] consortium.
+
+2020\/09- Designed and offered a new course on /Convex Optimization and AI Applications/ at UNC Charlotte.
+
+2020/08-  Joined the [https://ece.uncc.edu/ ECE] department at [https://uncc.edu/ UNC Charlotte] as an Assistant Professor.
+~~~
 
 
 
