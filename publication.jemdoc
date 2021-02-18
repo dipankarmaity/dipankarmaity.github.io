@@ -1,15 +1,14 @@
 # jemdoc: menu{MENU2}{publication.html}
 = Publications
 
-== Journal Publications (Selected)
+== Journal Publications & Preprints (Selected)
+. *D. Maity*, and P. Tsiotras, "Optimal Controller and Quantizer Selection for Partially Observable Linear-Quadratic-Gaussian Systems", \[available [https://arxiv.org/pdf/1909.13609.pdf here]\]
+. *D. Maity*, and P. Tsiotras, "Optimal Controller Synthesis and Dynamic Quantizer Switching for Linear-Quadratic-Gaussian Systems", to appear in /IEEE Transactions on Automatic Control/, 2021. \[available [https://arxiv.org/pdf/2001.11971.pdf here]\]
 . M. H. Mamduhi, *D. Maity*, J. S. Baras, and K. H. Johansson, "A Cross-Layer Optimal Co-
 Design of Control and Networking in Time-Sensitive Cyber-Physical Systems", /IEEE Control Systems Letters/, vol. 5(3), pp. 917--922, 2021.
-
-. D. T. Larsson, *D. Maity*, P. Tsiotras, "Q-Tree Search: An Information-Theoretic Approach Toward Hierarchical Abstractions for Agents With Computational Limitations", /IEEE Transactions on Robotics/, vol. 36(6), pp. 1669 -- 1685, 2020.
-
+. D. T. Larsson, *D. Maity*, P. Tsiotras, "Q-Tree Search: An Information-Theoretic Approach Toward Hierarchical Abstractions for Agents with Computational Limitations", /IEEE Transactions on Robotics/, vol. 36(6), pp. 1669 -- 1685, 2020.
 . *D. Maity* and John S. Baras, "Optimal Event-Triggered Control of Nondeterministic Linear
 Systems," /IEEE Transactions on Automatic Control/, vol. 65(2), pp. 604--619, 2020.
-
 . *D. Maity*, M. H. Mamduhi, S. Hirche, K. H. Johansson, and J. S. Baras, "Optimal LQG
 control under delay-dependent costly information," /IEEE Control Systems Letters/, vol. 3(1), pp. 102--107, 2019.
 
@@ -25,20 +24,20 @@ Control for Signal Temporal Logic Tasks," /57th IEEE Conference on Decision and 
 Measurements," /56th IEEE Conference on Decision and Control/, Melbourne, Australia, December 12--15, 2017, pp. 6223--6228.
 . *D. Maity*, J. S. Baras, "Linear Quadratic Stochastic Differential Games under Asymmetric
 Value of Information," /20th World Congress of the International Federation of Automatic Control/, Toulouse, France, July 9--14, 2017, Vol. 50(1), pp. 8957--8962.
-. *D. Maity*, J. S. Baras, "Asymptotic policies for stochastic dierential linear quadratic games
+. *D. Maity*, J. S. Baras, "Asymptotic policies for stochastic differential linear quadratic games
 with intermittent state feedback," /25th IEEE Mediterranean Conference on Control and Automation/, Valletta, Malta, July 3--6, 2017, pp. 117--122.
-. *D. Maity*, A. Raghavan and J. S. Baras, "Stochastic dierential linear-quadratic games with
+. *D. Maity*, A. Raghavan and J. S. Baras, "Stochastic differential linear-quadratic games with
 intermittent asymmetric observations," /IEEE American Control Conference/, Seattle, USA, May 24--26, 2017, pp. 3670--3675.
-. *D. Maity* and J. S. Baras, "Optimal strategies for stochastic linear quadratic dierential games
+. *D. Maity* and J. S. Baras, "Optimal strategies for stochastic linear quadratic differential games
 with costly information," /55th IEEE Conference on Decision and Control/, Las Vegas, USA, December 12--14, 2016, pp. 276-282.
-. C. Somarakis, *D. Maity* and J. S. Baras, "The Eect of Delays in the Economic Dispatch
+. C. Somarakis, *D. Maity* and J. S. Baras, "The Effect of Delays in the Economic Dispatch
 Problem for Smart Grid Architectures," /IEEE American Control Conference/, Boston, USA, July 6--8, 2016, pp. 3533-3538.
 . E. Paraskevas, *D. Maity* and J. S. Baras, "Distributed Energy-Aware Mobile Sensor Coverage
 Game with Inter-Agent Communication," /IEEE American Control Conference/, Boston, USA, July 6--8, 2016, pp, 6259--6264.
 . Y. Zhou, *D. Maity*, and J. S. Baras, "Timed Automata Approach for Motion Planning Using
 Metric Interval Temporal Logic," /IEEE European Control Conference/, Ålborg, Denmark, June 29--July 1, 2016, pp. 690--695.
 . *D. Maity* and J. S. Baras, "Event Based Control of Stochastic Linear Systems", /1st IEEE
-international Conference on Event-Based Control, Communication and Signal Processing/, Krakow, Poland, June 17-19, 2015, pp. 1--8.
+International Conference on Event-Based Control, Communication and Signal Processing/, Krakow, Poland, June 17-19, 2015, pp. 1--8.
 . *D. Maity* and J. S. Baras, "Dynamic, Optimal Sensor Scheduling and Value of Information," /18th IEEE International Conference on Information Fusion/, DC, USA, July 6--9, 2015, pp. 239--244.
 . *D. Maity* and J. S. Baras, "Event Based control of Nonlinear Systems: A Lyapunov Function
 Based Approach," /54th IEEE Conference on Decision and Control/, Osaka, Japan,  December 15--18, 2015, pp. 3767--3772.
